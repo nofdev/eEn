@@ -1,0 +1,25 @@
+ * C# like grammar
+   * strong DSL support: can even emmbed another language!
+ * may target at JVM or CLI, as futher will even go native.
+ * type-safe as default but fully support dynamic, and even support meta as well.
+ * extensible syntactic sugar like boo groovy etc. and build-in common patterns
+ * closures like groovy
+ * dynamics like javascript but not the same
+ * interpret and/or compile at run-time
+ * programmable compile pipe-line like boo
+ * common lang enhancement like array literal etc.
+ * Tooling
+   * scafolded
+   * 
+ * philosophy
+   * outstanding
+   * DRY(Don't repeate yourself)
+   * lean
+   * DSL as first citizen
+   * highly strict orgnized community
+     * modeling
+     * patterns
+     * snippet
+     * DSL
+     * tooling
+   * enterprise product level quality and performance
