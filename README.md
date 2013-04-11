@@ -1,4 +1,3 @@
-
 Language Design Goal
 =======================
 
@@ -35,7 +34,7 @@ Language Design Goal
 Motivation
 ===========
 
-This is 2013. Languages today are *f* hard to use. Dynamic languages like groovy or ruby are too slow, hybrid languages like C# are too verbose and hard to extend, functional languages like Scala or F# are hard for OO guys and newbies, gramma looks ugly and lack support. Almost all of them also lack portability.
+This is 2013. Languages today are **f** hard to use. Dynamic languages like groovy or ruby are too slow, hybrid languages like C# are too verbose and hard to extend, functional languages like Scala or F# are hard for OO guys and newbies, gramma looks ugly and lack support. Almost all of them also lack portability.
 
 Have all that said, we need a language that is super-fast, beautiful, easy to understand, human intuitive, super easy to extend, fully portable and integratable with existing runtimes like CRT, JVM or CLI etc. Here comes the eEn language.
 
